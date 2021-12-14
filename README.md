@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 Clone the project to local machine.
 
 ```bash
-git clone https://github.com/nawed1111/e-comm.git
+git clone https://github.com/nawed1111/crowdfund-blockchain.git
 ```
 
 Install node package manager [npm](https://nodejs.org/en/download/).
