@@ -29,6 +29,9 @@ node ./block/compile.js
 
 After successfully running locally, you should be able to access the client [localhost:3000](http://127.0.0.1:3000/).
 
+### Snapshots
+![Screenshot (8)](https://user-images.githubusercontent.com/32324785/146667074-21efd39d-4f23-4671-b3bd-dea381ee36c7.png)
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
